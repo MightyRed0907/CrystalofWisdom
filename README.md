@@ -15,4 +15,16 @@ He makes the proposal of playing a game with his mummies, in which your life is 
 To win the Pharaoh with knowledge, and to get the Crystal of Wisdom, you accepts the challenge of Pharaoh.
 -----------------------------------------
 
-So I made game 
+So I made the game consist of four rounds, each of which allowed you to get one piece of crystal.
+
+In the round, there are grids that you move one step at a time, and a mummy is trying to capture you.
+
+You should find a route to reach the crystal, avoiding the mummy.
+
+The mummy's intelligence power is limited, so he only relies on the sounds you make, but he can move twice as fast as you move once.
+
+Both you and the mummy can't pass the walls, and the mummy's always trying to follow you straight, so if you use the walls well, you can trap them inside and make yourself free to reach the crystal.
+
+As you pass every round, you will collect the pieces, and once all four pieces are gathered, you win the game.
+
+Please be a wise guy and get wiser.
